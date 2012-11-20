@@ -27,8 +27,10 @@
 # Future Work
 
 If you ever wanted to support teams of users, you could create 2 new tables
+
 1. team
 2. user_teams
+
 where you would store the teams properties and its association with user.
 
 You then could extend the current application and write new views and new managers to get the data filtered by team.
