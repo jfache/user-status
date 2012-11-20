@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^user/create/?$ index.php?view=user.create_form [L]
+RewriteRule ^user/login/?$ index.php?view=user.login_form [L]
+RewriteRule ^user/logout/?$ index.php?view=user.logout [L]
+RewriteRule ^status/create/?$ index.php?view=status.create_form [L]
