@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/project');
+define('BASE_URL', 'http://localhost/user-status/');
 
 define('DB_HOST', 'localhost');
 define('DB_USER', '');
